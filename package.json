@@ -1,0 +1,11 @@
+{
+	"name": "space.kulibin.fpscounter",
+	"version": "1.0.0",
+	"displayName": "FPS Counter Ultra Simple Pro",
+	"description": "This is a elementary simple as f#ck FPS counter",
+	"author": {
+		"name": "Kulibin.Space",
+		"email": "akareactor@mail.ru",
+		"url": "https://www.kulibin.space"
+	}
+}
